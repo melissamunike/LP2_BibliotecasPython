@@ -36,7 +36,6 @@ COMO UTILIZAR O PYGAME NO REPLIT??
     
 ** Obs: o código atrelado ao arquivo precisa das imagens e audios do código principal para
 poder correr sem problemas. :D
-
 ```
 <img src="https://user-images.githubusercontent.com/116849820/200624446-6026fa9b-ed31-4029-8b05-d9909a4b9855.png"/>
 
